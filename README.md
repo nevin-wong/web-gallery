@@ -1,6 +1,8 @@
 # Web Gallery
 
-The Web Gallery is a web application where users can share pictures and comments. This application is similar to existing web applications such as Facebook, Instagram, or Google Photos.
+The Web Gallery is a web app where users can share pictures and comments. The app is similar to existing web applications such as Facebook, Instagram, or Google Photos!
+
+![image](https://github.com/user-attachments/assets/05428f1b-5b44-4111-a7e8-f6f99379251e)
 
 ## Setup Instructions
 
